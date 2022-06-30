@@ -2,8 +2,8 @@
 title: ARCS Community Bonding
 author: Mrunal, Ghodoosi
 date: 2022-06-23 
-categories: [GSoC Blogging]
-tags: [GSoC]
+categories: [ARCS Blogging]
+tags: [ARCS]
 math: true
 mermaid: true
 ---
