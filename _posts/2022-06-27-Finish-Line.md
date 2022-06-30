@@ -1,7 +1,7 @@
 ---
 title: The Finish Line 
 author: Mrunal Gavali
-date: 2022-08-23 
+date: 2022-06-27
 categories: [ARCS Blogging]
 tags: [NLP]
 ---
