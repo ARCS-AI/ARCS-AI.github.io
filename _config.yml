@@ -15,9 +15,9 @@ timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Mrunal P. Gavali                      # the main title
+title: ARCS CSUN                      # the main title
 
-tagline: My GSoC'22 Blog   # it will display as the sub-title
+tagline: ARCS NLP Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -25,12 +25,12 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://gli-mrunal.github.io'
+url: 'https://ARCS-AI.github.io'
 
-author: Mrunal Gavali                  # change to your full name
+author: ARCS-NLP team                 # change to your full name
 
 github:
-  username: gli-mrunal            # change to your github username
+  username: ARCS-AI            # change to your github username
 
 linkedin:
   username: gli-mrunal
@@ -39,8 +39,8 @@ linkedin:
 #  username: twitter_username            # change to your twitter username
 
 social:
-  name: Mrunal Gavali                 # it will shows as the copyright owner in Footer
-  email: gli.mrunal@gmail.com             # change to your email address
+  name: ARCS-NLP team                # it will shows as the copyright owner in Footer
+  #email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
@@ -87,7 +87,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/favicons/pic.jpg
+avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
 # https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
