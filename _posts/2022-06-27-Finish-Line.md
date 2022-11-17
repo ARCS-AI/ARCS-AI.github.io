@@ -1,6 +1,6 @@
 ---
 title: The Finish Line 
-author: Mrunal Gavali
+author: Mrunal Gavali, Icess
 date: 2022-06-27
 categories: [ARCS Blogging]
 tags: [NLP]
